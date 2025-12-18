@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Giannis Exarchos</h1>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/04hOC58JMvcAAAAC/minimalist.gif">
 
-- 🔭 I’m currently studying **Computer Science** in **UoA**
+- 🎓 Computer Science student at the **University of Athens (UoA)**
+  
+- 💻 Interested in **software engineering, space systems, and robotics**
+  
+- 📫 Reach me at **exarchosjohn9@gmail.com**
+  
+- 🔗 Connect on <a href="https://www.linkedin.com/in/giannis-exarchos/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+  </a>
 
-- 📫 How to reach me **exarchosjohn9@gmail.com**
