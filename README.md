@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Giannis Exarchos</h1>
+<h1 align="center">Hi 👋, I'm Ioannis Exarchos</h1>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/04hOC58JMvcAAAAC/minimalist.gif">
 
-- 🎓 Computer Science student at the **University of Athens (UoA)**
+- 🎓 Computer Science graduate at the **University of Athens (UoA)**
   
 - 💻 Interested in **software engineering, space systems, and robotics**
   
